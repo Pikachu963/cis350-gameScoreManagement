@@ -1,0 +1,3 @@
+﻿  GameEntryTest.cpp
+C:\Users\Ali\OneDrive\Documents\GitHub\cis350-gameScoreManagement\gameScoreManagement\gameScoreManagement\GameEntryTest.cpp(64,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gameScoreManagement.vcxproj -> C:\Users\Ali\OneDrive\Documents\GitHub\cis350-gameScoreManagement\gameScoreManagement\x64\Debug\gameScoreManagement.exe
